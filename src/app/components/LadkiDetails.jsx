@@ -5,6 +5,7 @@ import MarriageCountdown from "../components/MarriageCountdown";
 import LadkiEvents from "../components/LadkiEvents";
 import Wardrobe from "../components/Wardrobe";
 import PhotoGallery from "../components/PhotoGallery";
+import Venue from "../components/Venues";
 import LadkiWeather from "../components/LadkiWeather";
 
 export default function LadkiDetails() {
@@ -57,6 +58,7 @@ export default function LadkiDetails() {
         <Wardrobe />
         <PhotoGallery />
         <LadkiWeather />
+         <Venue/>
       </div>
     </div>
   );

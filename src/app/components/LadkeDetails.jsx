@@ -5,6 +5,7 @@ import MarriageCountdown from "../components/MarriageCountdown";
 import Events from "../components/Events";
 import Wardrobe from "../components/Wardrobe";
 import PhotoGallery from "../components/PhotoGallery";
+import Venue from "../components/Venues";
 import Weather from "../components/Weather";
 
 export default function LadkeDetails() {
@@ -55,6 +56,7 @@ export default function LadkeDetails() {
         <Wardrobe />
         <PhotoGallery />
         <Weather />
+        <Venue/>
       </div>
     </div>
   );
