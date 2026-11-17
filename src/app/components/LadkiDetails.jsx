@@ -1,4 +1,4 @@
-'use client';
+"use client";
 import { useState } from "react";
 import ScratchText from "../components/ScratchText";
 import MarriageCountdown from "../components/MarriageCountdown";
@@ -13,7 +13,6 @@ export default function LadkiDetails() {
 
   return (
     <div className="mx-auto w-full max-w-4xl text-center md:p-2">
-     
       <p className="text-[17px] md:text-2xl text-[#B35800] font-cormorant-garamond">
         We cordially invite you to the wedding ceremony of
       </p>
@@ -23,11 +22,12 @@ export default function LadkiDetails() {
           Vritti Sanghvi
         </h2>
 
-       <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
-          (GrandDaughter of Late Ramniklal Maniklal Sanghvi & Smt. Vijaya Ben Sanghvi)
+        <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
+          (GrandDaughter of Late Ramniklal Maniklal Sanghvi & Smt. Vijaya Ben
+          Sanghvi)
         </p>
         <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl mt-2 text-[16px]">
-           (D/o Shri Hitesh Sanghvi & Smt. Rashmi Sanghvi)
+          (D/o Shri Hitesh Sanghvi & Smt. Rashmi Sanghvi)
         </p>
 
         <h2 className="text-[#B35800] great-vibes-regular text-center text-[38px] sm:text-7xl lg:text-[60px] leading-tight font-bold">
@@ -38,7 +38,7 @@ export default function LadkiDetails() {
           Harshil Dhanuka
         </h2>
 
-       <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
+        <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl text-[16px]">
           (GrandSon of Late Mahavir Prasad Dhanuka & Late Krishna Devi Dhanuka)
         </p>
         <p className="text-[#B35800] font-cormorant-garamond lg:text-[30px] md:text-2xl mt-2 text-[16px]">
@@ -47,18 +47,17 @@ export default function LadkiDetails() {
 
         <ScratchText onReveal={() => setRevealed(true)} />
 
-       {revealed && (
-      <div className="countdown-fade-in">
-        <MarriageCountdown />
-      </div>
-    )}
-    
+        {revealed && (
+          <div className="countdown-fade-in">
+            <MarriageCountdown />
+          </div>
+        )}
 
         <LadkiEvents />
         <Wardrobe />
         <PhotoGallery />
         <LadkiWeather />
-         <Venue/>
+        <Venue />
       </div>
     </div>
   );
