@@ -4,7 +4,7 @@ const venues = [
   {
     title: "Maira Resort & Convention Centre",
     place: "NH-6, near International Cricket Stadium, Umariya, Raipur, Chhattisgarh 493441",
-    // image: "/assets/marudhar.webp",
+   
     link: "https://maps.app.goo.gl/pwRmcr1M36NdXbLKA",
   },
 
@@ -36,13 +36,7 @@ export default function Venues() {
       <div className="mt-4 w-full max-w-4xl grid grid-cols-1 md:grid-cols-1 gap-6 md:gap-8">
         {venues.map((v) => (
           <div key={v.title} className="flex flex-col items-center text-center">
-            {/* <div className="w-full aspect-[4/3] overflow-hidden rounded-xl shadow-[0_20px_40px_rgba(0,0,0,0.18)]">
-              <img
-                src={v.image}
-                alt={v.title}
-                className="w-full h-full object-cover"
-              />
-            </div> */}
+           
 
             <h3 className="mt-2 text-xl text-[#B35800] font-serif font-semibold">
               {v.title}
