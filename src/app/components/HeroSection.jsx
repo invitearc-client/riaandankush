@@ -1,7 +1,7 @@
 "use client";
 
 import {useEffect, useState } from "react";
-import LadkeDetails from "../components/LadkeDetails";
+// import LadkeDetails from "../components/LadkeDetails";
 import LadkiDetails from "../components/LadkiDetails";
 import RoseHeroTemp from "../components/RoseHeroTemp";
 import BottomNavigation from "../components/BottomNavigation";
@@ -83,7 +83,7 @@ export default function HeroSection() {
         <div className="mt-8 flex w-full max-w-[500px] flex-col items-center justify-center gap-4 sm:flex-row md:mt-10">
 
           {/* LADKE */}
-          <button
+          {/* <button
             type="button"
             onClick={() => setSelectedSide("ladke")}
             className={`
@@ -104,7 +104,7 @@ export default function HeroSection() {
             `}
           >
             LADKE WAALE
-          </button>
+          </button> */}
 
           {/* LADKI */}
           <button

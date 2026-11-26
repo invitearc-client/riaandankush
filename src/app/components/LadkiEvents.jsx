@@ -2,7 +2,7 @@
 
 export default function LadkiEvents() {
   return (
-     <div
+    <div
       id="itinerary"
       className="flex scroll-mt-6 flex-col justify-center mt-20 lg:mt-40 items-center"
     >
@@ -16,46 +16,32 @@ export default function LadkiEvents() {
         Wedding Events
       </h2>
 
-    
       <div className="bg-[url('/assets/date_frame.webp')] bg-no-repeat bg-cover bg-center flex items-center justify-center w-85 min-h-[100px] md:w-140 md:min-h-[160px]">
         <h2 className="text-[#B35800] font-cormorant-garamond text-[18px] font-semibold md:text-xl lg:text-[30px] px-4 py-2 text-center">
-          Friday, 11th December 2026
+          Friday, 27th November 2026
         </h2>
       </div>
 
       <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
         <img
-          src="/assets/haldi_event.webp"
+          src="/assets/mata.webp"
           alt="Wedding Logo"
           className="w-[250px] sm:w-[220px] md:w-[280px]"
         />
-        <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4">
-          A Splash of Sunshine (Haldi)
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[32px] md:text-2xl lg:text-[50px] mt-4">
+          Mata Ki Chowki
         </h2>
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          11:30 am onwards
+          by Megha Gaba & Party
+        </p>
+
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          Jyoti Prajvalit - 6:00 pm <br />
+          Dinner - 9:00pm
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Location:- Open close & Mandapam
-        </p>
-      </div>
-
-      <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
-        <img
-          src="/assets/sangeet_event.webp"
-          alt="Wedding Logo"
-          className="w-[250px] sm:w-[220px] md:w-[280px]"
-        />
-        <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4">
-          A Symphony of Love (Sangeet)
-        </h2>
-        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          7:00 pm onwards
-        </p>
-
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Location:- Regalia
+          Venue:- Shri Sanatan Dharam Mandir <br /> SurajMal Vihar, Delhi-92
         </p>
       </div>
 
@@ -73,47 +59,145 @@ export default function LadkiEvents() {
         </div>
       </div>
 
+      <div className="bg-[url('/assets/date_frame.webp')] bg-no-repeat bg-cover bg-center flex items-center justify-center w-85 min-h-[100px] md:w-140 md:min-h-[160px]">
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[18px] font-semibold md:text-xl lg:text-[30px] px-4 py-2 text-center">
+          Tuesday, 1st December 2026
+        </h2>
+      </div>
 
+      <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
+        <img
+          src="/assets/shaam.webp"
+          alt="Wedding Logo"
+          className="w-[250px] sm:w-[220px] md:w-[280px]"
+        />
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[32px] md:text-2xl lg:text-[50px] mt-4">
+          Shaam E Khaas
+        </h2>
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          Joy. Dance & Celebration
+        </p>
+        <p className="text-[#B35800]  font-cormorant-garamond text-[19px] md:text-base">
+          The Sagan & Ring Ceremony
+        </p>
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          Followed By <br /> Wine, Dine & Dance <br /> 7:30 pm onwards
+        </p>
+
+        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+          Venue:- Bel-La Monde' Hotel <br />
+          (Soir Club) <br /> Chattarpur Mandir Rd New Delhi
+        </p>
+      </div>
+
+      <div className="flex items-center w-full md:mt-16 mt-6 mb-13">
+        <div className="flex-1">
+          <div className="border-t-2 border-[#B35800]" />
+          <div className="border-t border-[#B35800] mt-1" />
+        </div>
+
+        <span className="mx-4 text-[#B35800] text-lg">✦</span>
+
+        <div className="flex-1">
+          <div className="border-t-2 border-[#B35800]" />
+          <div className="border-t border-[#B35800] mt-1" />
+        </div>
+      </div>
 
       <div className="bg-[url('/assets/date_frame.webp')] bg-no-repeat bg-cover bg-center flex items-center justify-center w-85 min-h-[100px] md:w-140 md:min-h-[160px]">
         <h2 className="text-[#B35800] font-cormorant-garamond text-[18px] font-semibold md:text-xl lg:text-[30px] px-4 py-2 text-center">
-          Saturday, 12th December 2026
+          Wednesday, 2nd December 2026
         </h2>
       </div>
 
       <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
         <img
-          src="/assets/varmala.webp"
+          src="/assets/mehendi.webp"
+          alt="Wedding Logo"
+          className="w-[250px] sm:w-[220px] md:w-[280px]"
+        />
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4 leading-8">
+          Rang Saari Mehendi & Cocktail
+        </h2>
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base leading-5">
+          Share the Dance floor with Silvers Band By Gaurav Roda
+        </p>
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          7:30 pm onwards
+        </p>
+
+        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+          Venue:- Palm Green Hotel & Resort (Grand Ballroom) <br />
+          GT karnal Road Delhi-36
+        </p>
+      </div>
+
+      <div className="flex items-center w-full md:mt-16 mt-6 mb-13">
+        <div className="flex-1">
+          <div className="border-t-2 border-[#B35800]" />
+          <div className="border-t border-[#B35800] mt-1" />
+        </div>
+
+        <span className="mx-4 text-[#B35800] text-lg">✦</span>
+
+        <div className="flex-1">
+          <div className="border-t-2 border-[#B35800]" />
+          <div className="border-t border-[#B35800] mt-1" />
+        </div>
+      </div>
+      <div className="bg-[url('/assets/date_frame.webp')] bg-no-repeat bg-cover bg-center flex items-center justify-center w-85 min-h-[100px] md:w-140 md:min-h-[160px]">
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[18px] font-semibold md:text-xl lg:text-[30px] px-4 py-2 text-center">
+          Thursday, 3rd December 2026
+        </h2>
+      </div>
+
+      <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
+        <img
+          src="/assets/haldi.webp"
           alt="Wedding Logo"
           className="w-[250px] sm:w-[220px] md:w-[280px]"
         />
         <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4">
-          Varmala
+          Haldi
         </h2>
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          4:30 pm onwards
+          The Playful Pallete
+        </p>
+
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          11:00 am onwards
+        </p>
+
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
+          Venue:- The Pool Side, Palm Green Hotel & Resort G.T Karnal Road,{" "}
+          <br />
+          Delhi-36
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Location:- Sun Deck
+          Dress Code: Bright Colours
         </p>
       </div>
 
       <div className="flex flex-col items-center rounded-2xl lg:py-12 lg:px-20 px-6 py-6 md:mt-20 mt-6">
         <img
-          src="/assets/phere.webp"
+          src="/assets/wedding.webp"
           alt="Wedding Logo"
           className="w-[250px] sm:w-[220px] md:w-[280px]"
         />
         <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4">
-          Phere Reception
+          Royal Wedding
         </h2>
+
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          6:01 pm onwards
+          Venue:- Amber by eleven Course (The Ivory House) G.T Karnal Road,
+          Delhi-36
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Location:- Utsav
+          Reception of Barat - 9:00 pm <br />
+          Dinner - 10:00 pm <br />
+          Doli - Taaron Ki Chhaon Mein
         </p>
       </div>
     </div>

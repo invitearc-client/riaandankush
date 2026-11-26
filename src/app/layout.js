@@ -14,19 +14,19 @@ const geistMono = Geist_Mono({
 
 
 export const metadata= {
-  metadataBase: new URL("https://harshilandvritti.vercel.app/"),
+  metadataBase: new URL("https://riaandankush.vercel.app/"),
 
   openGraph: {
-    title: "Harshil & Vritti",
-    description: "Join as they begin their forever. 11 & 12 December, 2026",
-    url: "https://harshilandvritti.vercel.app/",
+    title: "Ria & Ankush",
+    description: "Join as they begin their forever. 27 November, 1, 2 & 3 December, 2026",
+    url: "https://riaandankush.vercel.app/",
     siteName: "InviteArc",
     images: [
       {
         url: "/og.jpg",
         width: 1200,
         height: 630,
-        alt: "Harshil & Vritti",
+        alt: "Ria & Ankush",
       }, 
     ],
     type: "website",
@@ -35,13 +35,13 @@ export const metadata= {
 
   twitter: {
     card: "summary_large_image",
-    title: "Harshil & Vritti",
-    description: "Join as they begin their forever. 11 & 12  November, 2026",
+    title: "Ria & Ankush",
+    description: "Join as they begin their forever. 27 November, 1, 2 & 3 December, 2026",
     images: ["/og.jpg"],
   },
 
  other: {
-    "og:image:secure_url": "https://harshilandvritti.vercel.app/og.jpg",
+    "og:image:secure_url": "https://riaandankush.vercel.app/og.jpg",
     "og:image:type": "image/jpg",
   },
 };

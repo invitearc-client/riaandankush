@@ -2,10 +2,10 @@
 
 const venues = [
   {
-    title: "Maira Resort & Convention Centre",
-    place: "NH-6, near International Cricket Stadium, Umariya, Raipur, Chhattisgarh 493441",
+    title: "Amber By Eleven Course",
+    place: "GT Karnal Rd, Delhi, 110036",
    
-    link: "https://maps.app.goo.gl/pwRmcr1M36NdXbLKA",
+    link: "https://maps.app.goo.gl/cL6YcHPj1RDWMq8f6",
   },
 
 

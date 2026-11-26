@@ -1,6 +1,6 @@
 "use client";
 
-const requestNames = ["Late Smt Saroj Ben", "Late Shri Nandlal bhai Sanghvi "];
+const requestNames = ["Chugh Family ", "Malik family", "Bajaj family", "Nagpal family", "Rajput Family"];
 
 export default function LadkiWeather() {
   return (
@@ -29,31 +29,7 @@ export default function LadkiWeather() {
             </p>
           ))}
         </div>
-
-        <div className="mx-auto my-3 h-px w-24 bg-[#d4a63c]/50" />
-        <div className="mt-4 space-y-2">
-          <p className="text-[15px] md:text-2xl text-[#f6e6dc] font-serif">
-            Smt Chaya Ben <br />
-            Shri Ramesh Bhai Sanghvi
-          </p>
-        </div>
-
-        <div className="mx-auto my-3 h-px w-24 bg-[#d4a63c]/50" />
-        <div className="mt-4 space-y-2">
-          <p className="text-[15px] md:text-2xl text-[#f6e6dc] font-serif">
-            Smt Sona Ben <br />
-            Shri Vijay Bhai Sanghvi
-          </p>
-        </div>
-
-        <div className="mx-auto my-3 h-px w-24 bg-[#d4a63c]/50" />
-        <div className="mt-4 space-y-2">
-          <p className="text-[15px] md:text-2xl text-[#f6e6dc] font-serif">
-            Smt Kavita Ben
-            <br />
-            Shri Yogesh Bhai Sanghvi
-          </p>
-        </div>
+    
       </div>
     </section>
   );

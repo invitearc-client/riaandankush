@@ -4,21 +4,10 @@ import { useState } from "react";
 
 const images = [
   "/assets/book_image.webp",
-  "/assets/couple8.jpg",
-  "/assets/couple9.jpg",
-  "/assets/couple10.jpg",
-  "/assets/couple11.jpg",
-  "/assets/couple12.jpg",
-  "/assets/couple13.jpg",
-  "/assets/couple14.jpg",
-  "/assets/couple15.jpg",
-  "/assets/couple16.jpg",
-  // "/assets/couple17.jpg",
-  "/assets/couple18.jpg",
-  "/assets/couple19.jpg",
-  "/assets/couple20.jpg",
-  "/assets/couple21.jpg",
-  "/assets/couple22.jpg",
+  "/assets/couple1.jpg",
+  "/assets/couple2.jpg",
+  "/assets/couple3.jpg",
+  
 ];
 
 const N = images.length;
@@ -70,7 +59,7 @@ export default function PhotoGallery() {
       className="w-full scroll-mt-6 overflow-x-clip"
     >
       {/* Heading */}
-      <div className="flex flex-col justify-center mt-0 lg:mt-20 items-center">
+      <div className="flex flex-col justify-center mt-20 lg:mt-20 items-center">
         <p className="md:text-2xl text-[16px] text-[#BC610A] font-cormorant-garamond">
           Our Little Album
         </p>
