@@ -38,7 +38,7 @@ export default function LadkiEvents() {
          <b>Dinner -</b> 9:00pm
         </p>
 
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
           <b>Venue:-</b> Shri Sanatan Dharam Mandir <br /> SurajMal Vihar, Delhi-92
         </p>
       </div>
@@ -82,7 +82,7 @@ export default function LadkiEvents() {
           Followed By <br /> Wine, Dine & Dance <br /> 7:30 pm onwards
         </p>
 
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
           <b>Venue:-</b> Bel-La Monde' Hotel <br />
           (Soir Club) <br /> Chattarpur Mandir Rd New Delhi
         </p>
@@ -172,7 +172,7 @@ export default function LadkiEvents() {
           Delhi-36
         </p>
 
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
           <b>Dress Code:-</b> Bright Colours
         </p>
       </div>
@@ -192,7 +192,7 @@ export default function LadkiEvents() {
           Delhi-36
         </p>
 
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
           <b>Reception of Barat -</b> 9:00 pm <br />
         <b> Dinner -</b>10:00 pm <br />
         <b>Doli -</b> Taaron Ki Chhaon Mein
