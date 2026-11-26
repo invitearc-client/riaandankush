@@ -114,8 +114,8 @@ export default function LadkiEvents() {
           alt="Wedding Logo"
           className="w-[250px] sm:w-[220px] md:w-[280px]"
         />
-        <h2 className="text-[#B35800] font-cormorant-garamond text-[28px] md:text-2xl lg:text-[50px] mt-4 leading-8">
-          Rang Saari Mehendi & Cocktail
+        <h2 className="text-[#B35800] font-cormorant-garamond text-[26px] md:text-2xl lg:text-[50px] mt-4 leading-8">
+          Rang Saari <br/> Mehendi & Cocktail
         </h2>
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base leading-5">
           Share the Dance floor with Silvers Band By Gaurav Roda
