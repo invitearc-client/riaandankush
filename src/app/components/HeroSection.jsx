@@ -75,7 +75,7 @@ export default function HeroSection() {
         {/* ================= CHOOSE TEXT ================= */}
         <div className="mt-14 text-center sm:mt-16 md:mt-20">
           <p className="text-[16px] text-[#B35800] md:text-xl font-cormorant-garamond">
-            PLEASE CHOOSE ONE TO CONTINUE
+            PLEASE CLICK TO CONTINUE
           </p>
         </div>
 
