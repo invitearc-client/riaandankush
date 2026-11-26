@@ -7,7 +7,7 @@ export default function LadkiEvents() {
       className="flex scroll-mt-6 flex-col justify-center mt-20 lg:mt-40 items-center"
     >
       <p className="md:text-2xl text-[16px] text-[#B35800] font-cormorant-garamond">
-        Two days of celebration
+        Three days of celebration
       </p>
       <h2
         className="text-[#B35800] font-cormorant-garamond text-center
@@ -31,17 +31,15 @@ export default function LadkiEvents() {
         <h2 className="text-[#B35800] font-cormorant-garamond text-[32px] md:text-2xl lg:text-[50px] mt-4">
           Mata Ki Chowki
         </h2>
-        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          by Megha Gaba & Party
-        </p>
+       
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          Jyoti Prajvalit - 6:00 pm <br />
+          Jyoti Prajwalit - 6:00 pm <br />
           Dinner - 9:00pm
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Venue:- Shri Sanatan Dharam Mandir <br /> SurajMal Vihar, Delhi-92
+          <b>Venue:-</b> Shri Sanatan Dharam Mandir <br /> SurajMal Vihar, Delhi-92
         </p>
       </div>
 
@@ -85,7 +83,7 @@ export default function LadkiEvents() {
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Venue:- Bel-La Monde' Hotel <br />
+          <b>Venue:-</b> Bel-La Monde' Hotel <br />
           (Soir Club) <br /> Chattarpur Mandir Rd New Delhi
         </p>
       </div>
@@ -126,8 +124,8 @@ export default function LadkiEvents() {
           7:30 pm onwards
         </p>
 
-        <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Venue:- Palm Green Hotel & Resort (Grand Ballroom) <br />
+        <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
+          <b>Venue:-</b> Palm Green Hotel & Resort (Grand Ballroom) <br />
           GT karnal Road Delhi-36
         </p>
       </div>
@@ -169,13 +167,13 @@ export default function LadkiEvents() {
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          Venue:- The Pool Side, Palm Green Hotel & Resort G.T Karnal Road,{" "}
+          <b>Venue:-</b> The Pool Side, Palm Green Hotel & Resort G.T Karnal Road,{" "}
           <br />
           Delhi-36
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Dress Code: Bright Colours
+          <b>Dress Code:-</b> Bright Colours
         </p>
       </div>
 
@@ -190,14 +188,14 @@ export default function LadkiEvents() {
         </h2>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          Venue:- Amber by eleven Course (The Ivory House) G.T Karnal Road,
+        <b>Venue:-</b> Amber by eleven Course (The Ivory House) G.T Karnal Road,
           Delhi-36
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
-          Reception of Barat - 9:00 pm <br />
-          Dinner - 10:00 pm <br />
-          Doli - Taaron Ki Chhaon Mein
+          <b>Reception of Barat -</b> 9:00 pm <br />
+        <b> Dinner -</b>10:00 pm <br />
+        <b>Doli -</b> Taaron Ki Chhaon Mein
         </p>
       </div>
     </div>

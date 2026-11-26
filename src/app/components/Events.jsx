@@ -7,7 +7,7 @@ export default function Events() {
       className="flex scroll-mt-6 flex-col justify-center mt-20 lg:mt-40 items-center"
     >
       <p className="md:text-2xl text-[16px] text-[#B35800] font-cormorant-garamond">
-        Two days of celebration
+        Three days of celebration
       </p>
       <h2
         className="text-[#B35800] font-cormorant-garamond text-center
