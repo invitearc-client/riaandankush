@@ -34,8 +34,8 @@ export default function LadkiEvents() {
        
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-          Jyoti Prajwalit - 6:00 pm <br />
-          Dinner - 9:00pm
+          <b>Jyoti Prajwalit -</b> 6:00 pm <br />
+         <b>Dinner -</b> 9:00pm
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-sm md:text-base ">
