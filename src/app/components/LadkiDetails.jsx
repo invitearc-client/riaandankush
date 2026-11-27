@@ -13,12 +13,23 @@ export default function LadkiDetails() {
 
   return (
     <div className="mx-auto w-full max-w-4xl text-center md:p-2">
-      <p className="text-[17px] md:text-2xl text-[#B35800] font-cormorant-garamond">
+      {/* <p className="text-[17px] md:text-2xl text-[#B35800] font-cormorant-garamond">
         We cordially invite you to the wedding ceremony of
+      </p> */}
+<p className="text-[20px] md:text-2xl text-[#B35800] font-cormorant-garamond font-semibold">
+       Rachna & Anil Kr. Chugh
       </p>
-
+      <p className="text-[17px] md:text-2xl text-[#B35800] font-cormorant-garamond">
+       are delighted to invite you for the
+      </p>
+      <p className="text-[20px] md:text-2xl text-[#B35800] font-cormorant-garamond font-semibold">
+       Wedding Celebration
+      </p>
+      <p className="text-[17px] md:text-2xl text-[#B35800] font-cormorant-garamond">
+       of their daughter
+      </p>
       <div className="mt-8 text-center">
-        <h2 className="text-[#B35800] font-pinyon-script text-center mt-14 md:text-4xl text-[38px] lg:text-[60px] leading-tight font-bold">
+        <h2 className="text-[#B35800] font-pinyon-script text-center mt-1 md:text-4xl text-[38px] lg:text-[60px] leading-tight font-bold">
           Ria
         </h2>
 

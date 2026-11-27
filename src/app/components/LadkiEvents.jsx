@@ -6,9 +6,9 @@ export default function LadkiEvents() {
       id="itinerary"
       className="flex scroll-mt-6 flex-col justify-center mt-20 lg:mt-40 items-center"
     >
-      <p className="md:text-2xl text-[16px] text-[#B35800] font-cormorant-garamond">
+      {/* <p className="md:text-2xl text-[16px] text-[#B35800] font-cormorant-garamond">
         Three days of celebration
-      </p>
+      </p> */}
       <h2
         className="text-[#B35800] font-cormorant-garamond text-center
             md:text-5xl text-[30px] lg:text-[80px] leading-tight mt-2 font-semibold"
@@ -39,7 +39,7 @@ export default function LadkiEvents() {
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
-          <b>Venue:-</b> Shri Sanatan Dharam Mandir <br /> SurajMal Vihar, Delhi-92
+          <b>Venue:-</b> Shri Sanatan Dharam Mandir <br /> Surajmal Vihar, Delhi-92
         </p>
       </div>
 
@@ -84,7 +84,7 @@ export default function LadkiEvents() {
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
           <b>Venue:-</b> Bel-La Monde' Hotel <br />
-          (Soir Club) <br /> Chattarpur Mandir Rd New Delhi
+          (Soir Club) <br /> Chattarpur Mandir Road <br/> New Delhi
         </p>
       </div>
 
@@ -188,13 +188,13 @@ export default function LadkiEvents() {
         </h2>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base">
-        <b>Venue:-</b> Amber by eleven Course (The Ivory House) G.T Karnal Road,
+        <b>Venue:-</b> Amber by eleven Course <br/> (The Ivory House) <br/> G.T Karnal Road,
           Delhi-36
         </p>
 
         <p className="text-[#B35800]  font-cormorant-garamond text-[16px] md:text-base ">
-          <b>Reception of Barat -</b> 9:00 pm <br />
-        <b> Dinner -</b>10:00 pm <br />
+          <b>Reception of Barat -</b> 8:00 pm <br />
+        <b> Dinner -</b>9:00 pm <br />
         <b>Doli -</b> Taaron Ki Chhaon Mein
         </p>
       </div>

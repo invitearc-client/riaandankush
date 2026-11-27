@@ -3,7 +3,7 @@
 const venues = [
   {
     title: "Amber By Eleven Course",
-    place: "GT Karnal Rd, Delhi, 110036",
+    place: "GT Karnal Road, Delhi, 110036",
    
     link: "https://maps.app.goo.gl/cL6YcHPj1RDWMq8f6",
   },
