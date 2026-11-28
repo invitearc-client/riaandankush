@@ -5,7 +5,7 @@ const venues = [
     title: "Amber By Eleven Course",
     place: "GT Karnal Road, Delhi, 110036",
    
-    link: "https://maps.app.goo.gl/cL6YcHPj1RDWMq8f6",
+    link: "https://maps.app.goo.gl/92W7WX84rKweUeNt7",
   },
 
 
